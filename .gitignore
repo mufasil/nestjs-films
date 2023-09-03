@@ -1,0 +1,61 @@
+# Node.js dependencies
+node_modules/
+
+# Compiled output
+/dist/
+/build/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+.pnp/
+.pnp.js
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+*.bak
+*.cache
+*.log
+*.log.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Nest.js-specific files and directories
+/.env.local
+/nest-cli.json
+
+# TypeScript-specific files
+*.tsbuildinfo
+
+# Jest test runner
+coverage/
+
+# End-to-end testing with Protractor
+/e2e/*.js
+/e2e/*.map
+
+# Compiled webpack bundles and sourcemaps
+/dist
