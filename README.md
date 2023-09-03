@@ -15,10 +15,8 @@ Before you begin, make sure you have the following prerequisites installed on yo
 To get started, clone this Git repository to your local machine using the following command:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/mufasil/nestjs-films
 ```
-
-Replace `<repository_url>` with the actual URL of this Git repository.
 
 ## Install Project Dependencies
 
